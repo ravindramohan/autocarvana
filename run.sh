@@ -1,0 +1,1 @@
+FLASK_APP=datamaverick/app.py flask run
